@@ -1,2 +1,6 @@
-# qx_chat
-使用node.js开发的一个多人在线聊天室。 基于Express4、socket.io、Bootstrap、jQuery，适合新手学习。
+千寻聊天室 qx-chat
+=======
+
+这是一个使用node.js socket.io以及Bootstrap构建的一个聊天室。
+
+This chat room is constructed by node.js socket.io and Bootstrap.
